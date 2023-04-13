@@ -5,7 +5,7 @@ This project is a subsection of a longer project of analysing faculty tutor enga
 
 1. Table of Contents 1
 1. Installation 2
-1. Usage 3
+
 
 ## Installation
 We recommend Github's HTML preview for optiomal viewing and for interaction.
